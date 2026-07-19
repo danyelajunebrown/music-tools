@@ -1,0 +1,13 @@
+{
+  "name": "music-tools",
+  "owner": {
+    "name": "Danyela June Brown"
+  },
+  "plugins": [
+    {
+      "name": "music-tools",
+      "description": "Music production and songwriting tools",
+      "source": "./"
+    }
+  ]
+}
